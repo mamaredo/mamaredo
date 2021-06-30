@@ -1,4 +1,4 @@
-### Only Public Repository 🌏✨
+### *Only Public Repository* 🌏✨
 
 <!--
 **mamaredo/mamaredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamaredo&theme=monokai&show_icons=true&langs_count=10&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
 
 
-### All Repository ⚡🔥
+### *All Repository* ⚡🔥
 
 [![](https://raw.githubusercontent.com/mamaredo/mamaredo/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mamaredo/mamaredo/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mamaredo/mamaredo/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
