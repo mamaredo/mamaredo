@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![mamaredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamaredo&count_private=true&theme=monokai&show_icons=true)](https://github.com/mamaredo/mamaredo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamaredo&theme=monokai&show_icons=true&langs_count=10&layout=compact)](https://github.com/mamaredo/mamaredo/github-readme-stats)
+[![mamaredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamaredo&count_private=true&theme=monokai&show_icons=true)](https://github.com/mo-ri-regen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamaredo&theme=monokai&show_icons=true&langs_count=10&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
 
 
 ### *All Repository* ⚡🔥
